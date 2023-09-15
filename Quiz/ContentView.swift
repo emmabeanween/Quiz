@@ -79,7 +79,7 @@ struct ContentView: View {
         
         
         
-        
+        // compare the user's answer with the correct answer
       
       var userAnswer = userPresidentGuess
       var correctAnswer  = currentPresident
