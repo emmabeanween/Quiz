@@ -214,7 +214,7 @@ struct ContentView: View {
                                 // allow editing again
                                 letEdit.toggle()
                                 
-                                // allow guessin g again
+                                // allow guessing again
                                 
                                 letGuess.toggle()
                             }
